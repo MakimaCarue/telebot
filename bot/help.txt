@@ -1,0 +1,14 @@
+       welcome to alia
+
+the best anime community project
+ongoing if you are just getting
+started you can use the following
+commands to get things done
+    start: /start
+    help: /help
+    news: /news or /n
+
+comming soon:
+    profile: /profile
+    status: /status
+    update: /update
